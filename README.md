@@ -1,2 +1,2 @@
 # server-monitoring-dashboard
-Virtual Server Monitoring Data Pipeline and Power BI Dashboard
+Server monitoring data pipeline and dashboard
