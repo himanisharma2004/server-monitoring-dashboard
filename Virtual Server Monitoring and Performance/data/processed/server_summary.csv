@@ -1,0 +1,201 @@
+Server_ID,Hostname,OS_Type,Server_Location,Server_Status,Avg_CPU_Utilization,Avg_Memory_Usage,Avg_Disk_IO,Avg_Network_In,Avg_Network_Out,Avg_Total_Network_Traffic,Avg_Uptime_Hours,Avg_Downtime_Hours,CPU_Alert_Count,Memory_Alert_Count,Disk_Alert_Count,Downtime_Event_Count
+0435b059-4f09-4a27-abfc-2a2bd4548aa7,srv-backup01,Windows Server 2019,"New York, USA",Critical,87.98,34.46,66.78,103.02,84.46,187.48,21.05,2.95,1,0,0,1
+04799af0-d18c-4d82-925b-cdcc9b69ee0c,srv-analytics03,Ubuntu 20.04,"New York, USA",Healthy,51.42,54.94,32.41,73.8,10.24,84.03999999999999,19.14,4.86,0,0,0,1
+0564a58b-bc34-4c9c-9cdc-907fc1708c67,srv-cache01,CentOS 8,"Berlin, Germany",Warning,32.97,86.84,22.0,121.4,66.61,188.01,21.01,2.99,0,0,0,1
+05dcde9e-836e-4169-b3dc-519478cbafa0,srv-database01,Red Hat Enterprise Linux,"Sydney, Australia",Healthy,46.02,31.73,48.49,60.4,83.46,143.85999999999999,19.54,4.46,0,0,0,1
+07b5619c-8ed1-4226-a35c-880b76379cab,srv-web03,Windows Server 2022,"Berlin, Germany",Critical,63.36,94.26,27.6,145.69,55.57,201.26,21.88,2.12,0,1,0,1
+0859608c-7f1b-4332-ba35-d50885c3c029,srv-web02,Windows Server 2022,"New York, USA",Critical,86.0,65.67,87.6,149.61,72.33,221.94,18.51,5.49,1,0,1,1
+08ac5795-9603-4848-9fc0-f20307b026aa,srv-cache03,Ubuntu 20.04,"London, UK",Warning,17.66,79.55,13.41,67.99,71.75,139.74,18.49,5.51,0,0,0,1
+08da88a1-335a-49bb-8722-34fad4ea1661,srv-analytics01,Ubuntu 20.04,"Tokyo, Japan",Warning,82.13,39.08,84.13,119.23,118.19,237.42000000000002,22.66,1.34,0,0,0,1
+0959611f-38cb-420e-8e54-87de77b37e17,srv-analytics02,Red Hat Enterprise Linux,"Berlin, Germany",Healthy,34.84,54.65,35.88,37.23,124.98,162.21,22.4,1.6,0,0,0,1
+09d5a8a9-bd36-47a5-b851-07e5a865ce34,srv-api03,Windows Server 2022,"Berlin, Germany",Critical,87.52,41.03,70.97,84.5,75.52,160.01999999999998,19.6,4.4,1,0,0,1
+0a0c694c-17be-4566-9c77-8e74ff8c4839,srv-database02,Red Hat Enterprise Linux,"Tokyo, Japan",Warning,80.58,81.95,49.5,115.76,119.02,234.78,19.3,4.7,0,0,0,1
+0a33a4cd-1a22-418e-bef8-321c1ec3cbf8,srv-analytics02,Windows Server 2019,"Sydney, Australia",Warning,23.54,40.76,71.74,89.57,106.29,195.86,21.11,2.89,0,0,0,1
+0a3eb18a-58dc-4b3d-9f77-6aa79acd4a02,srv-app01,Windows Server 2019,"Tokyo, Japan",Warning,64.93,79.64,69.06,49.02,119.89,168.91,22.03,1.97,0,0,0,1
+0daade74-2f6b-4ffa-8968-6a473181add6,srv-database02,Red Hat Enterprise Linux,"Tokyo, Japan",Warning,74.18,30.41,48.19,30.94,127.02,157.96,21.66,2.34,0,0,0,1
+10004a69-09d9-42c3-aeac-4f85cde41e39,srv-analytics03,Red Hat Enterprise Linux,"Sydney, Australia",Healthy,12.21,63.89,12.34,48.5,132.37,180.87,20.38,3.62,0,0,0,1
+1263f1f7-42dd-447a-9ad2-fe60654f0154,srv-database01,Red Hat Enterprise Linux,"Berlin, Germany",Healthy,19.73,29.52,59.17,85.06,59.97,145.03,21.67,2.33,0,0,0,1
+159e48e3-d466-4655-8c6b-823e0de48faf,srv-cache02,Windows Server 2019,"London, UK",Critical,43.05,95.76,79.01,49.06,29.37,78.43,21.38,2.62,0,1,0,1
+169f8460-9372-40b2-9521-fcd86e4e2829,srv-app02,Windows Server 2022,"London, UK",Warning,76.28,20.79,38.79,56.86,66.09,122.95,20.97,3.03,0,0,0,1
+17ea735b-ff4f-4c7f-8a6d-f596a5510d4e,srv-analytics03,Windows Server 2019,"Berlin, Germany",Warning,56.18,85.81,82.82,124.14,42.77,166.91,22.69,1.31,0,0,0,1
+182ce3e2-96d9-4639-a1cf-09c5352bd37e,srv-app02,CentOS 8,"Sydney, Australia",Critical,13.05,24.77,99.3,113.22,74.57,187.79,18.84,5.16,0,0,1,1
+198b38ac-dc7e-4638-8521-744dc7121841,srv-backup02,Windows Server 2019,"London, UK",Warning,84.99,27.63,31.48,80.96,143.79,224.75,19.98,4.02,0,0,0,1
+1ac75ca2-8b59-4b90-897a-64c7913b5098,srv-api03,Ubuntu 20.04,"Berlin, Germany",Critical,44.27,20.03,93.94,121.16,11.86,133.01999999999998,19.27,4.73,0,0,1,1
+1ca0a88a-f163-421b-8fe2-7ef72d14a685,srv-analytics03,Windows Server 2019,"Tokyo, Japan",Warning,10.57,20.79,84.73,131.93,50.77,182.70000000000002,20.73,3.27,0,0,0,1
+1ce1db28-d790-4d9b-ab97-a4fca8dc8779,srv-api02,Ubuntu 20.04,"Sydney, Australia",Healthy,35.8,28.95,68.74,108.85,60.86,169.70999999999998,22.99,1.01,0,0,0,1
+208f4b78-88d8-4528-8dcc-2524d6d710fc,srv-web02,Windows Server 2019,"London, UK",Critical,44.98,85.3,99.64,98.6,54.44,153.04,21.7,2.3,0,0,1,1
+231ff169-049b-469e-afe2-106af40e371e,srv-backup02,CentOS 8,"Tokyo, Japan",Critical,76.93,56.28,92.79,15.82,27.08,42.9,19.95,4.05,0,0,1,1
+263e2221-7f06-4803-9bb2-7c26818829de,srv-analytics02,Windows Server 2019,"Sydney, Australia",Healthy,37.09,56.42,27.57,57.95,125.23,183.18,22.82,1.18,0,0,0,1
+26bae71d-c025-4082-9484-ef7aa9e04836,srv-web02,Ubuntu 20.04,"London, UK",Warning,49.72,84.35,73.89,123.34,97.1,220.44,19.71,4.29,0,0,0,1
+270cd957-a331-4dc2-bbcf-85b91e292784,srv-cache03,Ubuntu 20.04,"Berlin, Germany",Warning,62.76,76.1,52.29,34.2,142.94,177.14,18.66,5.34,0,0,0,1
+28fe2731-7083-4dd0-97aa-e535ecd8842f,srv-api02,CentOS 8,"Berlin, Germany",Healthy,12.99,58.45,27.97,72.81,122.67,195.48000000000002,19.96,4.04,0,0,0,1
+2a5e4119-aac6-43b2-a966-facc92dc657e,srv-cache02,Windows Server 2019,"London, UK",Critical,46.32,97.77,26.87,145.98,15.94,161.92,18.7,5.3,0,1,0,1
+2bcf9791-4750-4c36-9cd5-88335c385de4,srv-app01,CentOS 8,"London, UK",Critical,94.01,60.56,31.86,10.33,89.24,99.57,20.29,3.71,1,0,0,1
+2c052f16-fe45-4915-9d65-d908d77a0da5,srv-cache01,Windows Server 2022,"London, UK",Critical,89.41,60.74,92.42,149.66,89.83,239.49,21.63,2.37,1,0,1,1
+2cfe603c-3683-452b-881c-8b51f5c7c3ce,srv-analytics02,Windows Server 2022,"New York, USA",Healthy,33.17,47.99,64.99,15.71,55.36,71.07,22.1,1.9,0,0,0,1
+3145367a-2b21-41fc-8eef-1d92088de8a4,srv-api02,Windows Server 2019,"London, UK",Critical,88.99,42.49,91.11,132.52,35.24,167.76000000000002,20.57,3.43,1,0,1,1
+31b4037d-4400-483b-ac3b-62a4e0fdb3de,srv-app01,CentOS 8,"Tokyo, Japan",Healthy,24.9,38.19,62.9,74.42,96.16,170.57999999999998,20.15,3.85,0,0,0,1
+31d83824-b926-4a54-a3f0-291257a5df22,srv-database02,Ubuntu 20.04,"Berlin, Germany",Healthy,58.51,37.95,34.31,118.87,100.34,219.21,20.11,3.89,0,0,0,1
+32f0a94c-9d01-4d3f-9769-4d1ff9acf7d6,srv-analytics03,Red Hat Enterprise Linux,"Sydney, Australia",Warning,66.37,41.0,81.15,134.57,112.61,247.18,18.95,5.05,0,0,0,1
+338720f2-d47e-4b0c-83fd-db1c9359c470,srv-api01,Windows Server 2019,"Tokyo, Japan",Healthy,45.88,20.98,32.56,18.54,99.82,118.35999999999999,21.43,2.57,0,0,0,1
+352c6356-d76e-47d3-bb86-ed94aa70f82f,srv-web02,Windows Server 2019,"Sydney, Australia",Warning,29.51,76.82,30.39,83.17,21.74,104.91,21.79,2.21,0,0,0,1
+36ff6320-81da-4d9c-bf87-ee5231163167,srv-cache01,Ubuntu 20.04,"Sydney, Australia",Critical,97.8,31.31,54.23,23.25,74.9,98.15,22.92,1.08,1,0,0,1
+375cb3db-89d3-4705-af4a-8f829cce1928,srv-app02,Windows Server 2022,"Tokyo, Japan",Critical,63.97,67.31,96.46,45.33,131.5,176.82999999999998,22.78,1.22,0,0,1,1
+3761fb3d-cbbe-4c10-b712-6069e3b8f788,srv-backup03,Ubuntu 20.04,"Berlin, Germany",Critical,93.09,55.27,20.66,63.86,88.11,151.97,21.47,2.53,1,0,0,1
+37b6384b-fca5-4a5a-9aa3-1c6ee8b70eb6,srv-backup01,Windows Server 2022,"Sydney, Australia",Warning,40.14,51.37,79.7,125.12,118.58,243.7,22.07,1.93,0,0,0,1
+3c110a81-cfdc-40f5-82a5-906466d0444d,srv-cache01,Red Hat Enterprise Linux,"Sydney, Australia",Critical,13.71,95.85,32.54,101.94,68.65,170.59,20.82,3.18,0,1,0,1
+3ce3e210-f12d-48a6-9c32-d122b4511d43,srv-app01,Windows Server 2019,"Tokyo, Japan",Healthy,33.38,71.83,68.57,56.66,96.37,153.03,19.2,4.8,0,0,0,1
+436cc765-63b1-4e27-bdf4-2bb787eb5205,srv-cache03,Red Hat Enterprise Linux,"Berlin, Germany",Warning,14.02,39.26,74.72,125.74,35.52,161.26,18.64,5.36,0,0,0,1
+44dde1fc-01e2-4a79-bf34-1b29a726f24c,srv-database03,CentOS 8,"Berlin, Germany",Warning,39.97,61.23,77.75,11.8,38.27,50.07000000000001,18.11,5.89,0,0,0,1
+451bd625-de81-4328-984d-26aed6baf88c,srv-api01,Windows Server 2019,"Sydney, Australia",Critical,30.02,53.13,90.09,65.44,63.08,128.51999999999998,22.53,1.47,0,0,1,1
+454de38a-5961-490f-9d46-d20663a36baf,srv-backup02,Red Hat Enterprise Linux,"New York, USA",Healthy,44.72,57.64,14.94,69.6,112.81,182.41,18.64,5.36,0,0,0,1
+45f85e50-93d5-4980-8810-e893654bcde8,srv-api03,Windows Server 2022,"Sydney, Australia",Healthy,42.23,59.59,59.81,57.67,79.82,137.49,21.71,2.29,0,0,0,1
+46ffa7e8-428b-4778-96e6-66c8aa51469c,srv-database02,Windows Server 2022,"Tokyo, Japan",Critical,87.9,90.72,34.53,124.49,26.63,151.12,21.46,2.54,1,1,0,1
+4748daa4-86cf-4c28-a21b-9866c86edced,srv-backup01,Red Hat Enterprise Linux,"London, UK",Critical,68.02,94.66,20.72,129.38,18.47,147.85,22.77,1.23,0,1,0,1
+4932108c-c61e-41f4-95d0-3ad921cdc7e5,srv-backup02,CentOS 8,"Tokyo, Japan",Healthy,34.61,70.19,59.67,73.89,53.14,127.03,19.64,4.36,0,0,0,1
+4a94c403-8c15-4397-a2a5-6a22212327d1,srv-web02,Ubuntu 20.04,"Tokyo, Japan",Critical,49.61,84.08,88.26,81.06,129.43,210.49,19.86,4.14,0,0,1,1
+4a995069-1c99-4794-a57f-90ff3bf06fb3,srv-analytics01,Windows Server 2022,"New York, USA",Critical,99.3,86.17,59.61,26.22,20.29,46.51,19.32,4.68,1,0,0,1
+4aa1fa83-c575-4d81-a1c7-f1ed5395a0f6,srv-analytics01,CentOS 8,"Tokyo, Japan",Critical,88.3,24.14,25.99,67.86,120.95,188.81,20.19,3.81,1,0,0,1
+4b550e8d-7bf4-44ea-aec0-215ca2e2fe6e,srv-app01,Ubuntu 20.04,"Sydney, Australia",Healthy,50.02,31.38,39.92,126.47,39.53,166.0,22.4,1.6,0,0,0,1
+4cb1a51a-f2f7-4723-9e2c-cf2f8b95b327,srv-web03,Windows Server 2022,"Berlin, Germany",Critical,82.2,51.31,96.44,112.63,61.86,174.49,21.41,2.59,0,0,1,1
+4cf43079-bfc2-4fe8-97f6-4e43918307cb,srv-backup03,Windows Server 2022,"Tokyo, Japan",Healthy,68.63,43.19,40.2,35.55,14.8,50.349999999999994,21.77,2.23,0,0,0,1
+4d55bfc7-c27e-42d9-b271-c49770de3164,srv-cache03,Windows Server 2022,"New York, USA",Healthy,38.03,68.66,45.14,31.47,92.3,123.77,21.36,2.64,0,0,0,1
+513d5310-3933-456b-a835-221f2df6c1fe,srv-analytics03,CentOS 8,"Sydney, Australia",Healthy,51.65,30.42,16.69,68.42,23.09,91.51,18.21,5.79,0,0,0,1
+536c9e75-40a1-4a74-8ca6-c6abaec13999,srv-web02,Windows Server 2022,"Berlin, Germany",Warning,28.1,88.6,28.36,31.13,52.54,83.67,18.49,5.51,0,0,0,1
+55f503b7-c9e2-4860-b240-3432660f8505,srv-cache03,Red Hat Enterprise Linux,"Berlin, Germany",Warning,76.34,73.56,73.25,116.46,17.11,133.57,18.78,5.22,0,0,0,1
+59a64c0f-3002-4b0a-a740-5c77f29ef92a,srv-cache02,CentOS 8,"Tokyo, Japan",Critical,87.16,95.57,11.74,11.52,123.48,135.0,22.03,1.97,1,1,0,1
+59ff4908-2394-4f4b-b9ce-d402a8b64355,srv-web03,Windows Server 2019,"Tokyo, Japan",Warning,71.41,48.28,70.28,109.23,53.62,162.85,22.74,1.26,0,0,0,1
+5a77948a-5cc1-471e-997c-95f80ed78679,srv-database01,Windows Server 2022,"New York, USA",Critical,91.63,80.79,10.09,42.1,84.02,126.12,20.21,3.79,1,0,0,1
+5aa93017-a552-4598-af92-acd123695c21,srv-analytics01,Red Hat Enterprise Linux,"New York, USA",Critical,74.84,99.52,68.8,31.48,63.76,95.24,19.55,4.45,0,1,0,1
+5bd5e8f7-1339-4060-961c-894129724f45,srv-database03,Windows Server 2022,"Tokyo, Japan",Healthy,24.65,55.57,30.66,50.22,140.05,190.27,22.36,1.64,0,0,0,1
+5c8486a8-da04-409a-a64e-1b46277aa8e2,srv-analytics01,Ubuntu 20.04,"Berlin, Germany",Warning,36.89,24.27,70.85,31.27,63.03,94.3,20.18,3.82,0,0,0,1
+5cc7672a-5ebf-45b0-955a-52a34cf2bbbd,srv-api03,CentOS 8,"Berlin, Germany",Critical,14.66,50.73,87.11,14.3,102.04,116.34,18.22,5.78,0,0,1,1
+60158035-6a06-47a7-ab95-636f9364b04c,srv-app03,Ubuntu 20.04,"New York, USA",Critical,96.18,75.8,98.98,87.12,132.49,219.61,18.81,5.19,1,0,1,1
+60d53c28-062e-4801-8f61-900dd245c7e0,srv-analytics02,Red Hat Enterprise Linux,"Sydney, Australia",Warning,70.5,24.34,47.01,22.01,138.32,160.32999999999998,18.06,5.94,0,0,0,1
+622aeffb-fb0f-463c-938d-f06ced55569c,srv-app01,CentOS 8,"Tokyo, Japan",Healthy,56.54,34.44,15.78,89.63,54.75,144.38,18.31,5.69,0,0,0,1
+624b7e0f-4ce0-4af7-bb0c-8f5291436113,srv-backup02,Red Hat Enterprise Linux,"London, UK",Critical,24.66,39.35,94.94,76.99,34.85,111.84,21.53,2.47,0,0,1,1
+63d69c6d-8b9a-493d-acce-689781b567ef,srv-api02,Ubuntu 20.04,"New York, USA",Critical,39.25,96.08,25.89,82.07,101.65,183.72,19.5,4.5,0,1,0,1
+66d1ee4b-ab2b-486a-8faf-28ca0787e6ae,srv-api02,Windows Server 2019,"London, UK",Warning,74.22,80.94,58.35,133.08,144.37,277.45000000000005,18.51,5.49,0,0,0,1
+671aef4e-ab70-4634-a523-885c8d9b333d,srv-cache02,Windows Server 2019,"Sydney, Australia",Warning,81.95,76.54,42.47,46.25,101.56,147.81,21.36,2.64,0,0,0,1
+67ddb04e-fb22-4796-be49-c6ffc6972747,srv-api03,Red Hat Enterprise Linux,"New York, USA",Warning,48.86,89.53,78.01,76.42,142.39,218.81,22.3,1.7,0,0,0,1
+696ff579-ee3d-4cef-8773-9f10c4d93177,srv-analytics03,Red Hat Enterprise Linux,"New York, USA",Warning,60.7,39.35,79.5,110.42,100.62,211.04000000000002,20.97,3.03,0,0,0,1
+6a035308-8cef-404d-9a17-eb294ecf8b43,srv-web02,CentOS 8,"New York, USA",Critical,19.83,92.92,86.36,116.42,100.22,216.64,18.68,5.32,0,1,1,1
+6c1f53dc-8be7-444e-b670-c4919f77fe7e,srv-app01,Red Hat Enterprise Linux,"Berlin, Germany",Critical,85.38,89.3,84.4,44.27,115.86,160.13,22.36,1.64,1,0,0,1
+6d6a6dfc-705d-48ae-9a5e-0a018a7ad426,srv-analytics02,Ubuntu 20.04,"Sydney, Australia",Warning,46.33,87.78,71.92,33.92,60.74,94.66,21.48,2.52,0,0,0,1
+6e9038e5-ef70-4e8b-a4dc-70f97cd521a1,srv-cache02,Ubuntu 20.04,"Sydney, Australia",Warning,79.6,31.69,68.42,33.07,31.03,64.1,20.08,3.92,0,0,0,1
+6f0d8cc5-501a-42e4-99c7-70d534ca7339,srv-web01,Red Hat Enterprise Linux,"Tokyo, Japan",Critical,47.58,97.44,81.81,19.25,40.33,59.58,20.71,3.29,0,1,0,1
+7031883e-8780-4e08-9a08-9eccf33ea6dd,srv-web03,Ubuntu 20.04,"New York, USA",Healthy,37.93,71.95,35.87,118.84,115.86,234.7,18.42,5.58,0,0,0,1
+714f10b7-91a8-4728-b27d-f982fd35b101,srv-web03,CentOS 8,"New York, USA",Critical,92.56,24.03,91.96,143.46,112.34,255.8,19.85,4.15,1,0,1,1
+72a6d9cf-30df-49d2-a609-ad5c2962d3ab,srv-web02,Red Hat Enterprise Linux,"Berlin, Germany",Warning,82.85,61.7,62.74,91.85,112.72,204.57,22.85,1.15,0,0,0,1
+755ed160-757c-4213-8011-226502319394,srv-app02,Ubuntu 20.04,"Berlin, Germany",Critical,92.78,22.54,73.27,47.53,95.97,143.5,22.84,1.16,1,0,0,1
+76bdc0ca-1e2d-46b3-91c1-0f3ee9ecf01a,srv-cache02,Red Hat Enterprise Linux,"Tokyo, Japan",Healthy,61.75,62.49,60.97,40.97,58.66,99.63,21.6,2.4,0,0,0,1
+77221383-3c1b-4d84-81e1-93e7e48d4cd3,srv-cache02,Windows Server 2019,"London, UK",Critical,65.92,92.77,97.18,66.39,43.06,109.45,22.13,1.87,0,1,1,1
+77d54327-8068-45e5-bbc4-43b36b27ed8c,srv-app02,CentOS 8,"Tokyo, Japan",Critical,96.42,81.38,29.87,23.22,133.17,156.39,20.09,3.91,1,0,0,1
+7b188562-51f6-4052-8ee8-795966836b9a,srv-api03,CentOS 8,"London, UK",Healthy,24.95,24.68,37.17,74.78,134.1,208.88,18.34,5.66,0,0,0,1
+7bcc89d3-e4f3-462d-ace8-3695b4024ddf,srv-cache01,CentOS 8,"London, UK",Critical,75.33,54.51,86.82,72.03,46.78,118.81,22.24,1.76,0,0,1,1
+7d3441c3-21d8-4f44-b534-9e956be62105,srv-analytics02,CentOS 8,"New York, USA",Warning,80.3,73.79,61.95,111.66,55.55,167.20999999999998,22.37,1.63,0,0,0,1
+7e42e194-cb8a-46b6-b0a7-1af143e897e9,srv-web03,CentOS 8,"London, UK",Warning,81.48,51.27,17.22,12.14,73.7,85.84,19.13,4.87,0,0,0,1
+7eb08d16-d484-4177-8fcd-9b864bf418af,srv-backup01,Red Hat Enterprise Linux,"Tokyo, Japan",Healthy,59.33,67.67,36.28,116.77,17.87,134.64,21.75,2.25,0,0,0,1
+81cdfbc7-debd-45e3-9de2-366a9009aff4,srv-backup01,Red Hat Enterprise Linux,"New York, USA",Warning,49.22,81.51,19.98,119.39,33.84,153.23000000000002,18.97,5.03,0,0,0,1
+83a57f24-e401-4d56-815a-c47625229af5,srv-analytics01,Red Hat Enterprise Linux,"New York, USA",Healthy,20.21,33.62,45.55,79.43,88.92,168.35000000000002,22.55,1.45,0,0,0,1
+855a4030-4f71-4e78-a3df-2b0d4cc2f866,srv-backup03,CentOS 8,"London, UK",Healthy,49.54,50.49,62.94,98.98,30.79,129.77,21.76,2.24,0,0,0,1
+85762351-9c83-4fe4-ba39-259ea4a82ba0,srv-backup01,Windows Server 2019,"New York, USA",Critical,94.53,99.19,56.77,94.02,45.79,139.81,18.51,5.49,1,1,0,1
+87c386ab-07f0-4a23-81a1-c82bb4a9b3d2,srv-api01,Ubuntu 20.04,"Tokyo, Japan",Critical,32.76,66.97,96.76,82.13,36.79,118.91999999999999,22.47,1.53,0,0,1,1
+899916e5-5c12-422b-8914-e915967aac7c,srv-analytics01,Red Hat Enterprise Linux,"Berlin, Germany",Healthy,32.05,22.12,58.53,73.16,130.51,203.67,22.57,1.43,0,0,0,1
+8add674a-6bfd-4918-9787-fafa654f77dd,srv-analytics03,Ubuntu 20.04,"London, UK",Critical,31.19,95.29,31.73,102.42,28.99,131.41,20.95,3.05,0,1,0,1
+8b8a3f40-1b67-4fe6-a65e-93fd07f317f7,srv-web02,Red Hat Enterprise Linux,"New York, USA",Critical,37.69,97.97,71.46,62.97,148.51,211.48,18.14,5.86,0,1,0,1
+8b98821a-6cef-445c-b007-4ca8eb18563f,srv-cache01,Red Hat Enterprise Linux,"London, UK",Critical,49.97,41.02,97.5,62.77,78.02,140.79,19.24,4.76,0,0,1,1
+8c33ceb9-84c6-4d9e-aef5-4004c8f445e5,srv-cache02,Red Hat Enterprise Linux,"London, UK",Warning,73.81,73.64,38.26,109.46,103.04,212.5,21.92,2.08,0,0,0,1
+8e52d19d-1e84-466e-8e25-d24ae27434ab,srv-web01,Ubuntu 20.04,"Tokyo, Japan",Warning,12.62,86.98,18.54,102.76,11.03,113.79,20.3,3.7,0,0,0,1
+8fd4cba6-6936-4832-b6b8-f6acfcfbfe10,srv-web02,Windows Server 2019,"Tokyo, Japan",Warning,78.37,39.3,48.78,22.05,30.04,52.09,22.33,1.67,0,0,0,1
+9013d12f-a90e-492c-87c5-5a5811887394,srv-analytics02,CentOS 8,"London, UK",Healthy,43.74,73.84,20.42,25.4,15.76,41.16,19.42,4.58,0,0,0,1
+9145e4de-9d1e-4b76-9106-1afa434ceb44,srv-backup02,Red Hat Enterprise Linux,"Berlin, Germany",Critical,93.02,90.05,56.56,119.24,66.79,186.03,19.73,4.27,1,1,0,1
+91ba7e56-1188-420c-baff-9d769851cbf2,srv-backup03,Windows Server 2022,"Tokyo, Japan",Healthy,23.68,63.99,16.51,37.0,30.61,67.61,18.97,5.03,0,0,0,1
+92985510-2e8d-4950-871d-cf7bcf97d2ba,srv-backup03,CentOS 8,"London, UK",Critical,56.94,97.67,66.99,140.65,133.77,274.42,22.46,1.54,0,1,0,1
+93e19987-5698-4538-9998-2971b939ae86,srv-database02,Ubuntu 20.04,"London, UK",Critical,90.82,82.21,11.21,122.45,118.61,241.06,19.78,4.22,1,0,0,1
+9406ae9e-d19d-4be8-9b8a-8792b27db871,srv-cache02,Windows Server 2019,"Sydney, Australia",Warning,83.13,28.77,25.79,82.17,55.36,137.53,19.38,4.62,0,0,0,1
+95de17b4-60ec-4ea0-a79c-7faecdb85275,srv-app03,CentOS 8,"Sydney, Australia",Critical,75.49,73.48,93.03,29.02,22.0,51.019999999999996,20.49,3.51,0,0,1,1
+961a2a06-4fd0-485d-bd56-d4e52ab5039c,srv-backup01,Windows Server 2022,"New York, USA",Critical,17.7,97.15,63.26,118.09,130.34,248.43,20.72,3.28,0,1,0,1
+9a6dae07-ccb4-4e9c-8613-5b43b4975e86,srv-analytics03,Windows Server 2019,"New York, USA",Healthy,63.94,48.38,27.88,84.25,125.11,209.36,20.18,3.82,0,0,0,1
+9a90becd-5be4-4d03-b1fa-1ffa70cb11f5,srv-app02,Ubuntu 20.04,"Tokyo, Japan",Healthy,20.29,24.65,66.56,60.59,133.97,194.56,18.68,5.32,0,0,0,1
+9edda05f-c6b8-42d2-9634-841e091fc10c,srv-web02,CentOS 8,"London, UK",Critical,85.91,38.89,23.08,132.46,142.55,275.01,18.4,5.6,1,0,0,1
+a04ed20d-570f-41b7-b415-bc2db9d920e6,srv-analytics01,Red Hat Enterprise Linux,"Sydney, Australia",Critical,86.93,21.38,37.57,62.98,66.25,129.23,18.76,5.24,1,0,0,1
+a17ab97c-13bc-4b4e-8118-1a36a0b4deb0,srv-analytics01,Windows Server 2019,"Berlin, Germany",Warning,75.58,46.4,11.81,28.35,73.01,101.36000000000001,22.84,1.16,0,0,0,1
+a200f491-6b7b-4a3e-a3ef-7e48b1945c68,srv-database03,Windows Server 2022,"Tokyo, Japan",Healthy,26.11,51.44,62.7,56.01,98.41,154.42,18.24,5.76,0,0,0,1
+a203bde4-e7da-4eb8-a9c7-9dbe4bde4d35,srv-database01,CentOS 8,"Berlin, Germany",Critical,15.0,99.92,23.65,36.83,29.57,66.4,21.31,2.69,0,1,0,1
+a23db8da-5330-4089-9a05-4ac1390954b7,srv-database03,Red Hat Enterprise Linux,"London, UK",Critical,34.04,91.66,33.55,43.35,91.64,134.99,19.1,4.9,0,1,0,1
+a34fb851-d6ad-4e4c-bb0e-3aa4ef013c31,srv-web01,CentOS 8,"Tokyo, Japan",Critical,93.89,20.35,81.49,62.59,90.21,152.8,18.19,5.81,1,0,0,1
+a387043c-4797-4027-ac1c-5f8a27d1198f,srv-analytics03,Red Hat Enterprise Linux,"Berlin, Germany",Healthy,12.69,38.06,10.81,24.75,31.05,55.8,22.28,1.72,0,0,0,1
+a6212f18-0993-4f4f-ab4d-6fc3452bde64,srv-web02,Windows Server 2022,"Berlin, Germany",Warning,55.46,83.42,61.89,90.53,25.47,116.0,21.22,2.78,0,0,0,1
+a70f79c3-66c6-4c43-820b-7b0f220277ae,srv-app01,CentOS 8,"Sydney, Australia",Critical,93.07,59.55,56.15,11.73,103.41,115.14,18.46,5.54,1,0,0,1
+a7c76fdd-51bd-4184-95e0-816870acd370,srv-web01,CentOS 8,"Sydney, Australia",Critical,90.0,62.69,13.56,120.22,99.88,220.1,21.38,2.62,1,0,0,1
+a82735b5-8ec6-4d02-8ac7-5b3482b26590,srv-database01,Red Hat Enterprise Linux,"Tokyo, Japan",Critical,22.89,36.94,94.97,73.83,81.94,155.76999999999998,21.69,2.31,0,0,1,1
+a8c95376-9a68-43a6-94ce-62c6ffb5b80b,srv-backup01,Ubuntu 20.04,"Tokyo, Japan",Critical,77.56,47.28,88.26,115.38,20.83,136.20999999999998,21.19,2.81,0,0,1,1
+a8fcbe97-16a7-4408-a2ad-dfbd2c531107,srv-database01,CentOS 8,"Berlin, Germany",Healthy,45.87,72.67,61.55,142.08,147.92,290.0,18.01,5.99,0,0,0,1
+a975ea7d-612e-4b54-a20e-4859db1b044e,srv-cache01,CentOS 8,"New York, USA",Healthy,38.21,54.61,64.27,108.34,111.48,219.82,18.67,5.33,0,0,0,1
+a9e31f3d-5b23-48d4-a8b7-63345d586ec2,srv-analytics02,CentOS 8,"Sydney, Australia",Critical,94.8,49.35,90.67,121.64,140.54,262.18,18.85,5.15,1,0,1,1
+ad737c08-386f-4394-9ad2-76c244861bb8,srv-web02,Red Hat Enterprise Linux,"London, UK",Healthy,46.58,55.13,50.7,18.46,10.27,28.73,19.55,4.45,0,0,0,1
+ae5992b7-cd49-49d1-b9bc-65c262ba9e6e,srv-analytics02,Windows Server 2019,"Sydney, Australia",Warning,58.43,32.0,72.0,49.52,26.86,76.38,19.13,4.87,0,0,0,1
+ae7df33b-0c12-4151-87af-c74f30afd233,srv-backup01,Windows Server 2022,"Tokyo, Japan",Critical,68.1,39.47,88.96,75.64,141.35,216.99,18.09,5.91,0,0,1,1
+af0bb3fb-f46f-4eda-b608-67393ddbc67f,srv-analytics02,Windows Server 2022,"London, UK",Healthy,44.67,32.45,21.09,140.55,74.98,215.53000000000003,21.89,2.11,0,0,0,1
+af2df79f-8fce-4aa1-add7-1cba89e1052b,srv-database01,Windows Server 2019,"Sydney, Australia",Healthy,45.4,24.63,47.48,14.23,58.12,72.35,18.74,5.26,0,0,0,1
+b07f4016-f4ba-4ab7-9a46-b61d34e7c4fd,srv-app03,Red Hat Enterprise Linux,"Berlin, Germany",Warning,32.23,35.58,84.78,107.46,136.27,243.73000000000002,21.13,2.87,0,0,0,1
+b1ab8a73-a0ed-464f-9434-b9b61b078bc1,srv-analytics01,Ubuntu 20.04,"Berlin, Germany",Warning,77.94,78.72,82.27,93.26,79.81,173.07,18.12,5.88,0,0,0,1
+b1b867d4-9b1f-492f-88f2-2c9877372180,srv-analytics03,Windows Server 2022,"London, UK",Critical,85.44,26.89,29.98,109.9,81.57,191.47,19.97,4.03,1,0,0,1
+b2607e67-2bd4-4a90-a786-212775f24f61,srv-analytics02,Ubuntu 20.04,"New York, USA",Critical,86.03,27.24,90.44,112.72,90.19,202.91,21.86,2.14,1,0,1,1
+b578baae-6caf-47e6-a1f4-a0eebe17c77f,srv-database03,Ubuntu 20.04,"Tokyo, Japan",Critical,57.14,38.93,98.83,55.02,123.39,178.41,20.71,3.29,0,0,1,1
+b5f28214-c0f2-4212-941a-a6df4c1206b8,srv-analytics02,Ubuntu 20.04,"London, UK",Warning,77.29,25.84,30.93,21.1,126.29,147.39000000000001,22.65,1.35,0,0,0,1
+b6168a70-520f-49bd-9fe1-fd673f7d8b14,srv-database01,CentOS 8,"Berlin, Germany",Critical,94.59,81.31,83.31,111.1,84.15,195.25,22.21,1.79,1,0,0,1
+bac624f3-4927-44ec-b8ff-bf1d6a9f85ad,srv-cache01,CentOS 8,"Sydney, Australia",Healthy,14.66,52.16,67.44,21.43,41.45,62.88,22.82,1.18,0,0,0,1
+bbebda33-f016-4746-96bd-cbd3c5d12474,srv-web02,Windows Server 2019,"London, UK",Critical,96.17,87.71,54.77,127.19,58.43,185.62,20.49,3.51,1,0,0,1
+bda2d2fc-9ade-4c22-8c9d-0563a5a2c7b8,srv-database03,Ubuntu 20.04,"Berlin, Germany",Critical,52.07,76.32,99.65,98.61,93.83,192.44,21.85,2.15,0,0,1,1
+c137b910-3675-4dbd-9353-3ba607e98cb0,srv-backup01,Windows Server 2019,"Sydney, Australia",Healthy,55.22,68.63,10.85,28.02,11.73,39.75,20.64,3.36,0,0,0,1
+c2596d33-afee-434c-ac03-a277135eabdd,srv-api03,Windows Server 2019,"London, UK",Healthy,41.71,59.25,36.54,22.89,86.55,109.44,22.89,1.11,0,0,0,1
+c2ba6509-caa4-4720-8633-cb7565e9947c,srv-app03,Ubuntu 20.04,"Sydney, Australia",Healthy,36.45,59.28,18.46,47.7,86.57,134.26999999999998,22.38,1.62,0,0,0,1
+c2f91b34-1c12-4c22-889e-86d61b82830c,srv-database03,Windows Server 2022,"Tokyo, Japan",Warning,83.95,67.36,49.46,121.49,18.85,140.34,19.53,4.47,0,0,0,1
+c4c04d3b-6a47-4024-986f-f8b76ffdcae8,srv-analytics01,Windows Server 2019,"New York, USA",Healthy,45.31,74.71,17.27,123.36,29.74,153.1,21.97,2.03,0,0,0,1
+c4c9ea03-7b9d-483d-b434-6b8d850010ca,srv-backup02,CentOS 8,"New York, USA",Healthy,44.08,46.08,69.97,149.17,12.15,161.32,18.89,5.11,0,0,0,1
+c62af951-7f42-4cc8-b459-ac44464c9656,srv-app01,CentOS 8,"London, UK",Warning,67.54,78.05,34.91,111.3,75.55,186.85,20.91,3.09,0,0,0,1
+c717b341-11e6-4ab7-b0f6-75fe8f9e51d4,srv-app02,Windows Server 2022,"London, UK",Critical,81.79,94.95,60.7,45.57,47.14,92.71000000000001,22.95,1.05,0,1,0,1
+cb5c8985-02c4-4f93-a8ef-5fe1215dbb78,srv-database03,CentOS 8,"London, UK",Healthy,64.97,42.13,69.63,141.1,16.34,157.44,22.09,1.91,0,0,0,1
+cbc4a707-4692-4a12-87e9-d79ca6c71bfa,srv-web01,Windows Server 2022,"Berlin, Germany",Critical,57.89,93.66,64.08,78.82,149.25,228.07,21.51,2.49,0,1,0,1
+cced9fc9-6fce-4e78-a5f1-3b154254cffd,srv-web01,Windows Server 2022,"Sydney, Australia",Warning,27.79,76.65,72.04,51.93,70.4,122.33000000000001,21.43,2.57,0,0,0,1
+cd63c41b-1e76-41ab-abdf-4d8532288d1f,srv-web02,Ubuntu 20.04,"London, UK",Warning,43.0,34.47,73.66,24.16,142.89,167.04999999999998,21.95,2.05,0,0,0,1
+cfeb2838-9ddc-404f-b14a-41540918f46c,srv-backup01,Ubuntu 20.04,"Sydney, Australia",Healthy,68.66,32.15,53.1,54.31,56.62,110.93,21.49,2.51,0,0,0,1
+d34faa52-807a-4e2d-ac97-b259d1aa8896,srv-analytics03,Red Hat Enterprise Linux,"Tokyo, Japan",Warning,75.8,40.61,17.16,71.09,101.87,172.96,20.91,3.09,0,0,0,1
+d361bcc7-83ea-4a11-b112-d86c1205ce15,srv-cache02,Windows Server 2022,"New York, USA",Critical,15.27,91.39,76.5,90.72,133.31,224.03,19.37,4.63,0,1,0,1
+d40d5d4e-e228-4915-b716-550ebfdf8fe0,srv-cache02,Red Hat Enterprise Linux,"London, UK",Healthy,29.67,21.27,57.16,103.75,126.44,230.19,21.16,2.84,0,0,0,1
+d7bbd8fa-273b-4086-9a29-58362e1d0c5e,srv-analytics02,Red Hat Enterprise Linux,"Berlin, Germany",Critical,95.05,37.24,34.24,105.1,90.4,195.5,22.85,1.15,1,0,0,1
+d7daf6c4-22a9-4a4a-bee8-215ba349412c,srv-analytics01,Red Hat Enterprise Linux,"New York, USA",Critical,88.29,24.14,26.13,54.32,121.68,176.0,18.57,5.43,1,0,0,1
+d7db56e6-7774-469d-8f7c-c3abe49869bc,srv-database02,Ubuntu 20.04,"Tokyo, Japan",Critical,95.86,84.95,88.47,10.45,143.23,153.67999999999998,18.61,5.39,1,0,1,1
+d8f0cf61-f31e-4286-9f25-2ce96916a72a,srv-analytics02,Red Hat Enterprise Linux,"Sydney, Australia",Warning,55.66,76.23,51.54,126.03,87.42,213.45,18.67,5.33,0,0,0,1
+da4e5cb3-aa02-442e-b10f-df5dceeade29,srv-cache03,Red Hat Enterprise Linux,"New York, USA",Healthy,29.93,58.53,61.66,24.07,121.94,146.01,21.42,2.58,0,0,0,1
+dbe127fa-83b3-46ce-823d-0a2cdeab02c2,srv-analytics02,Ubuntu 20.04,"London, UK",Critical,88.46,72.3,26.69,126.83,43.41,170.24,21.98,2.02,1,0,0,1
+dc2517f7-e18e-4fcf-9388-46c529641862,srv-analytics02,Ubuntu 20.04,"Berlin, Germany",Warning,79.8,34.54,26.08,143.56,146.44,290.0,22.9,1.1,0,0,0,1
+e23d12bf-d466-4dad-a9e8-1160501a3774,srv-cache03,Ubuntu 20.04,"Tokyo, Japan",Critical,99.11,38.0,45.17,121.76,140.89,262.65,22.2,1.8,1,0,0,1
+e30f9fc0-033b-4340-8f7b-01026f93bc40,srv-analytics01,CentOS 8,"Tokyo, Japan",Healthy,69.25,23.94,15.84,102.26,43.46,145.72,22.24,1.76,0,0,0,1
+e337f92b-bf7d-49b9-98a4-c11b2399116b,srv-analytics03,Windows Server 2019,"London, UK",Warning,63.86,82.91,23.01,16.73,128.57,145.29999999999998,19.79,4.21,0,0,0,1
+e541f2f7-515f-4a8f-b177-c5e90ee9414c,srv-cache03,Red Hat Enterprise Linux,"London, UK",Critical,69.55,93.26,35.63,62.77,93.11,155.88,22.74,1.26,0,1,0,1
+e7646a1f-fa98-4870-a79c-23b4b9d19b2e,srv-backup01,Windows Server 2022,"Sydney, Australia",Healthy,16.25,34.69,25.98,18.77,80.33,99.1,21.78,2.22,0,0,0,1
+e819bc67-e07e-4a6b-8c8c-fb47d8051cf4,srv-backup03,Windows Server 2022,"New York, USA",Healthy,24.44,49.87,66.71,136.72,139.29,276.01,21.99,2.01,0,0,0,1
+e8379f03-584c-4924-86e8-2940f2047f48,srv-backup02,Red Hat Enterprise Linux,"London, UK",Warning,67.72,84.56,54.7,101.99,133.62,235.61,22.26,1.74,0,0,0,1
+e850ad2e-89fe-4437-a9e4-a083a1aff8ac,srv-analytics01,Windows Server 2019,"Berlin, Germany",Critical,74.75,95.98,62.51,119.84,77.28,197.12,21.61,2.39,0,1,0,1
+e9a42e27-09a6-4d02-b135-6b8f33fd6f90,srv-cache01,Ubuntu 20.04,"New York, USA",Critical,66.75,87.9,94.88,105.59,50.61,156.2,20.02,3.98,0,0,1,1
+e9ad7958-83df-47d8-b536-94bf53df2d92,srv-cache02,CentOS 8,"New York, USA",Critical,23.91,91.49,31.45,121.68,84.93,206.61,19.66,4.34,0,1,0,1
+e9c0a339-658d-4887-bdfc-1b6086ce1807,srv-database01,Red Hat Enterprise Linux,"Sydney, Australia",Healthy,64.16,65.34,38.51,57.87,104.9,162.77,21.35,2.65,0,0,0,1
+eb85d2ce-5510-423a-bd37-662716ad1164,srv-app03,CentOS 8,"Sydney, Australia",Warning,22.24,69.49,76.32,15.27,34.74,50.010000000000005,21.29,2.71,0,0,0,1
+ec162a69-23ba-499c-be6c-756885b7bd9e,srv-analytics01,Windows Server 2019,"Tokyo, Japan",Critical,98.81,61.65,61.26,85.21,20.52,105.72999999999999,22.22,1.78,1,0,0,1
+ed4746e9-fd4e-49b8-b3ae-067cab9c1c43,srv-database02,CentOS 8,"New York, USA",Critical,59.34,54.8,89.17,57.42,59.71,117.13,21.8,2.2,0,0,1,1
+ed8a0d8e-4ac0-402e-b843-7d75c42290e5,srv-app01,Windows Server 2022,"London, UK",Critical,71.17,87.33,89.55,79.05,114.25,193.3,18.58,5.42,0,0,1,1
+ef567390-224e-46de-b73e-94bf73b423f4,srv-app03,CentOS 8,"Berlin, Germany",Healthy,41.75,61.17,56.39,94.93,118.58,213.51,18.8,5.2,0,0,0,1
+f0dc3a9a-113e-4f4a-a272-3338a300ab00,srv-app03,Ubuntu 20.04,"New York, USA",Warning,48.93,68.43,82.21,125.12,73.54,198.66000000000003,21.94,2.06,0,0,0,1
+f2d8c00d-81e8-4000-9cf0-ea6f7e36c1ed,srv-api03,Windows Server 2022,"Tokyo, Japan",Warning,35.69,89.34,81.83,63.08,19.06,82.14,19.6,4.4,0,0,0,1
+f30b02be-e33b-402f-9955-0ab9ec2da98b,srv-app03,Windows Server 2019,"New York, USA",Warning,34.77,75.52,81.73,113.09,23.24,136.33,22.24,1.76,0,0,0,1
+f4a5f217-7c24-4f08-be11-0c179ef403e9,srv-web03,Ubuntu 20.04,"London, UK",Critical,82.37,92.71,72.98,22.19,46.86,69.05,20.43,3.57,0,1,0,1
+f73edcd1-c6ba-42c0-b7ba-b30f32c49818,srv-backup02,Ubuntu 20.04,"Berlin, Germany",Healthy,38.57,39.81,33.87,83.65,39.21,122.86000000000001,18.19,5.81,0,0,0,1
+f76ce17a-4713-47dd-a9bb-3eb20caa74d7,srv-app03,Red Hat Enterprise Linux,"Tokyo, Japan",Critical,55.06,98.0,67.77,108.48,87.9,196.38,19.85,4.15,0,1,0,1
+f9aa7de8-8fec-4850-bb5c-590d1fd3b179,srv-database01,Windows Server 2022,"New York, USA",Critical,95.33,81.06,42.16,92.46,63.8,156.26,21.2,2.8,1,0,0,1
+fb3aacfd-d7a3-41cf-8c01-37f7ce192e8c,srv-database03,Red Hat Enterprise Linux,"New York, USA",Critical,96.67,31.74,34.75,68.77,66.79,135.56,18.39,5.61,1,0,0,1
+fc139a27-9e59-479b-b13e-61a6e991e656,srv-app02,CentOS 8,"New York, USA",Healthy,49.86,66.94,58.26,16.53,98.81,115.34,22.59,1.41,0,0,0,1
+fdc77db4-cab0-484a-90ed-988aa059d0f8,srv-backup03,Windows Server 2019,"New York, USA",Healthy,65.54,49.61,18.96,17.75,117.58,135.32999999999998,18.96,5.04,0,0,0,1
+ff07794c-ee78-45fc-87e2-a3f76748b8fb,srv-analytics03,Windows Server 2022,"Berlin, Germany",Healthy,26.33,72.94,10.6,136.44,84.35,220.79,18.41,5.59,0,0,0,1
