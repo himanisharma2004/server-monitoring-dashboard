@@ -12,6 +12,16 @@ The system ingests raw server logs, processes and transforms the data using Pyth
 - GitHub
 
 ## Project Structure
+CSV Dataset
+   ↓
+Python Ingestion Script
+   ↓
+Data Cleaning & Transformation
+   ↓
+Processed Dataset
+   ↓
+Power BI Dashboard
+
 ## Data Pipeline
 
 1. **Data Ingestion**
